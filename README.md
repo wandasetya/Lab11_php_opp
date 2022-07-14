@@ -409,8 +409,3 @@ Artikel, sesuaikan kode pada method add seperti berikut:
 Kemudian pada file views/artikel/form_add.php tambahkan field input file dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut.
 
 ![gambar 1](screenshot/98.jpg)
-
-Ujicoba file upload dengan mengakses menu tambah artikel.
-
-![gambar 1](screenshot/99.jpg)
-
